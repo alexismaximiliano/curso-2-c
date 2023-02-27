@@ -1,0 +1,11 @@
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\6.2 base de datos\bin\Debug\6.2 base de datos.exe.config
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\6.2 base de datos\bin\Debug\6.2 base de datos.exe
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\6.2 base de datos\bin\Debug\6.2 base de datos.pdb
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\6.2 base de datos\obj\Debug\6.2 base de datos.csproj.AssemblyReference.cache
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\6.2 base de datos\obj\Debug\6.2 base de datos.csproj.SuggestedBindingRedirects.cache
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\6.2 base de datos\obj\Debug\_6._2_base_de_datos.Form1.resources
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\6.2 base de datos\obj\Debug\_6._2_base_de_datos.Properties.Resources.resources
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\6.2 base de datos\obj\Debug\6.2 base de datos.csproj.GenerateResource.cache
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\6.2 base de datos\obj\Debug\6.2 base de datos.csproj.CoreCompileInputs.cache
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\6.2 base de datos\obj\Debug\6.2 base de datos.exe
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\6.2 base de datos\obj\Debug\6.2 base de datos.pdb
