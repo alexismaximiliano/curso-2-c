@@ -1,0 +1,11 @@
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\ej unidad 6(discos)\bin\Debug\ej unidad 6(discos).exe.config
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\ej unidad 6(discos)\bin\Debug\ej unidad 6(discos).exe
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\ej unidad 6(discos)\bin\Debug\ej unidad 6(discos).pdb
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\ej unidad 6(discos)\obj\Debug\ej unidad 6(discos).csproj.AssemblyReference.cache
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\ej unidad 6(discos)\obj\Debug\ej unidad 6(discos).csproj.SuggestedBindingRedirects.cache
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\ej unidad 6(discos)\obj\Debug\ej_unidad_6_discos_.FrmDiscos.resources
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\ej unidad 6(discos)\obj\Debug\ej_unidad_6_discos_.Properties.Resources.resources
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\ej unidad 6(discos)\obj\Debug\ej unidad 6(discos).csproj.GenerateResource.cache
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\ej unidad 6(discos)\obj\Debug\ej unidad 6(discos).csproj.CoreCompileInputs.cache
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\ej unidad 6(discos)\obj\Debug\ej unidad 6(discos).exe
+C:\Users\ale_c\Desktop\GitHub\curso-2-c\6.2 base de datos\ej unidad 6(discos)\obj\Debug\ej unidad 6(discos).pdb
