@@ -24,6 +24,7 @@ namespace _6._2_base_de_datos
             PokemonNegocio negocio = new PokemonNegocio();
             listaPokemon = negocio.listar();
             dgvpokemon.DataSource = listaPokemon;
+            dgvpokemon.Columns["UrlImagen"].Visible = false;
             cargarImagen(listaPokemon[0].UrlImagen);
         }
 
