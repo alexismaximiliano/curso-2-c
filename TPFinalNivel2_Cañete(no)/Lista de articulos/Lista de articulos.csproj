@@ -46,25 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Agregar.cs">
+    <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Agregar.Designer.cs">
-      <DependentUpon>Agregar.cs</DependentUpon>
-    </Compile>
-    <Compile Include="ListaArticulos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ListaArticulos.Designer.cs">
-      <DependentUpon>ListaArticulos.cs</DependentUpon>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Agregar.resx">
-      <DependentUpon>Agregar.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ListaArticulos.resx">
-      <DependentUpon>ListaArticulos.cs</DependentUpon>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -92,10 +83,6 @@
     <ProjectReference Include="..\Dominio1\Dominio.csproj">
       <Project>{58e44187-73e3-4d29-b8d4-27e9b593bad2}</Project>
       <Name>Dominio</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\funciones\funciones.csproj">
-      <Project>{8365c743-48c1-4f54-a786-2f3cf8974f2b}</Project>
-      <Name>funciones</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

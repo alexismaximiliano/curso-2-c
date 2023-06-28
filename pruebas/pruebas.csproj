@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6F24B0C1-5D0B-44E7-90D2-A9DF9293AF2F}</ProjectGuid>
+    <ProjectGuid>{B6E44085-A7A2-49E5-8793-B2A2BA173012}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>TPFinalNivel2_CañeteAlexis</RootNamespace>
-    <AssemblyName>TPFinalNivel2_CañeteAlexis</AssemblyName>
+    <RootNamespace>pruebas</RootNamespace>
+    <AssemblyName>pruebas</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,35 +46,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FrmDetalles.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmDetalles.Designer.cs">
-      <DependentUpon>FrmDetalles.cs</DependentUpon>
-    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmAgregar.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmAgregar.Designer.cs">
-      <DependentUpon>FrmAgregar.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FrmDetalles.resx">
-      <DependentUpon>FrmDetalles.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FrmAgregar.resx">
-      <DependentUpon>FrmAgregar.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -96,16 +75,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Dominio\Dominio.csproj">
-      <Project>{57ef4001-761e-47a6-b4d1-17d12d45d6dd}</Project>
-      <Name>Dominio</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Funciones\Funciones.csproj">
-      <Project>{5ce70c16-d111-43b8-a9f5-b3e9c4b5514f}</Project>
-      <Name>Funciones</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

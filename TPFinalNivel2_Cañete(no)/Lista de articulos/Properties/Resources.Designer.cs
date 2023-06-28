@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TPFinalNivel2_CañeteAlexis.Properties
+namespace Lista_de_articulos.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace TPFinalNivel2_CañeteAlexis.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("TPFinalNivel2_CañeteAlexis.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Lista_de_articulos.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

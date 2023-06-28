@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("TPFinalNivel2_CañeteAlexis")]
+[assembly: AssemblyTitle("pruebas")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TPFinalNivel2_CañeteAlexis")]
+[assembly: AssemblyProduct("pruebas")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("6f24b0c1-5d0b-44e7-90d2-a9df9293af2f")]
+[assembly: Guid("b6e44085-a7a2-49e5-8793-b2a2ba173012")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //

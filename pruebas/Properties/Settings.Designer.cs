@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TPFinalNivel2_CañeteAlexis.Properties
+namespace pruebas.Properties
 {
 
 
